@@ -1,4 +1,4 @@
-# Testing Docimentetion Creating
+# Testing Documentation Creating
 
 The aim was to use different techniques of Test Design: 
 
